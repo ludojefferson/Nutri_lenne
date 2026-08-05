@@ -1,0 +1,6 @@
+{
+  "name": "Nutri Lane - Nutricionista",
+  "description": "Site premium e moderno de atendimento nutricional personalizado para Nutri Lane com agendamento via WhatsApp, depoimentos estilo Google/Airbnb e localização em Guaianases, São Paulo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
